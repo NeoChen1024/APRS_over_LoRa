@@ -1,0 +1,6 @@
+[submodule "KISS_TNC_LoRa"]
+	path = KISS_TNC_LoRa
+	url = https://github.com/NeoChen1024/KISS_TNC_LoRa
+[submodule "Simple_LoRa_APRS_Tracker"]
+	path = Simple_LoRa_APRS_Tracker
+	url = https://github.com/NeoChen1024/Simple_LoRa_APRS_Tracker
